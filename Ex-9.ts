@@ -2,7 +2,7 @@
 
 let inputNumber = 3;  // input=3,    Output='Tuesday'
 
-// let inputNumber = 8; ( it prints else statment " Invalid input")
+// let inputNumber = 8; ( it prints else statement " Invalid input")
 
 if ( inputNumber>= 1 && inputNumber <= 7) {
     if (inputNumber === 1) {
