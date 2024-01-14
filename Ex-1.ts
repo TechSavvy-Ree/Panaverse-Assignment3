@@ -5,7 +5,7 @@ function celsiusToFahrenheit(celsius: number): number {
 function fahrenheitToCelsius(fahrenheit: number): number {
     return (fahrenheit - 32) * 5 / 9;
 }
- // Example usage:
+ // Example:
 const celsiusTemperature = 25;
 const convertedToFahrenheit = celsiusToFahrenheit(celsiusTemperature);
 console.log(`${celsiusTemperature}°C is ${convertedToFahrenheit}°F`);
