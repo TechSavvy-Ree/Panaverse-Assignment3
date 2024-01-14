@@ -6,5 +6,5 @@ function DaysToWeeksAndDays(days: number): string {
 }
 
 // Example:
-const inputDays = 17;
+const inputDays = 19;
 console.log(`${inputDays} days is ${DaysToWeeksAndDays(inputDays)}`);
